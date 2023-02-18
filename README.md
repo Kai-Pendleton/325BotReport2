@@ -3,14 +3,14 @@ Group 5's Bot for Progress Report 2!
 
 ## Current Commands
 
-- /addcourse : This commands allows you to add a course to an existing semesters
-- /create-role : Using this command you can create a new role with the given permissions
-- /createsemester : This will create a new semester (edited)
-- /deletesemester : This commands will delete all channels and categories related to a given - semester
-- /duplicate : It takes a category and makes a new category with a new name given by the user and copy all channels and messages within channel into new channel
-- /launchsemester : This command will initialize all the categories and channels for a given semester
-- /ping : This command will send a simple message reply of "Pong!"
-- /settemplate : This command will set the templates for all the courses
+- /settemplate: This command will set the templates for all the courses
+- /createsemester: This will create a new semester 
+- /addcourse: This commands allows you to add a course to an existing semesters 
+- /launchsemester: This command will initialize all the categories and channels for a given semester 
+- /deletesemester: This commands will delete all channels and categories related to a given semester
+- /ping: This command will send a simple message reply of "Pong!"
+- /duplicate: It takes a category and makes a new category with a new name given by the user and copy all channels and messages within channel into new channel 
+- /create-role: Using this command will take a current role with the student permissions and copy it with a new role name
 
 ## Installation Instructions
 
