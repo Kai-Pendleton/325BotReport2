@@ -18,7 +18,7 @@ Line 2: CLIENTID=(Bot profile ID)
 
 Line 3: GUILDID=(Server ID)
 
-Then, you can run the bot using "node ." in the root of the repository. Invite the bot to your server, and set the class template and optional channels template with /settemplate.
+Invite the bot to your server, deploy the slash commands by running "node deploy-commands.js", then run the bot using "node ." and set the class template and optional channels template with /settemplate.
 Now the bot is set up!
 
 Here is a list of commands for the bot:
